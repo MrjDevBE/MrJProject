@@ -23,6 +23,9 @@ Beyond the code, I am a multi-talented individual who blends technology with cre
 *   Built using **HTML5 UP - Read Only** template.
 *   Backend integration via **FormSubmit**.
 *   Customized with responsive design patterns.
+  
+---
+*Design by [HTML5 UP](http://html5up.net)*
 
 ## Contact
 Feel free to reach out to me through my social channels:
@@ -30,5 +33,6 @@ Feel free to reach out to me through my social channels:
 *   [GitHub](https://github.com/MrjDevBE)
 *   [Instagram](https://www.instagram.com/papy.moja/)
 *   [Email](dev.mrjunio@gmail.com)
----
-*Design by [HTML5 UP](http://html5up.net)*
+*   Happy to help!
+
+Please use this link to visit the actual project : https://mrjdevbe.github.io/MrJProject/
